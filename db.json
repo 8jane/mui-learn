@@ -1,0 +1,42 @@
+{
+    "notes": [
+        {
+            "id": 1,
+            "title": "my first note",
+            "description": "Dignissim elitr ea aliquyam tempor justo stet. Dolor duo et diam magna invidunt sit sea. Sea dolores facilisis tincidunt amet. Praesent accusam tation elitr ipsum sit sadipscing amet vero. Adipiscing ipsum tincidunt velit amet tempor gubergren. Lorem accusam sed elitr sit.",
+            "category": "note"
+        },
+        {
+            "id": 2,
+            "title": "pipa",
+            "description": "Dignissim elitr ea aliquyam tempor justo stet. Dolor duo et diam magna invidunt sit sea. Sea dolores facilisis tincidunt amet. Praesent accusam tation elitr ipsum sit sadipscing amet vero. Adipiscing ipsum tincidunt velit amet tempor gubergren. Lorem accusam sed elitr sit.",
+            "category": "todo"
+        },
+        {
+            "id": 3,
+            "title": "dogs are cool",
+            "description": "Vel sed dolore elit sea aliquyam invidunt voluptua illum duis sed nonumy lorem dolor et elitr. Eu consetetur takimata sit no veniam. Praesent sanctus sanctus et sea lorem feugait eos no augue quis est sit. Dolore et eos ut sit aliquip feugiat eleifend. Molestie eirmod justo invidunt eros nibh assum rebum sanctus erat elitr clita est eos. Ipsum sed lorem. Eu in at eu amet amet zzril molestie labore qui stet. Sea duo sea et consetetur. Blandit dolores ea diam lorem. Nibh est dolore diam commodo tempor stet justo consequat stet accusam facilisi duis et eos laoreet voluptua nonumy. Amet eum eos labore amet ipsum lorem tation exerci.",
+            "category": "note"
+        }
+    ],
+    "employees": [
+        {
+        "id": 4,
+        "first_name": "Sebastian",
+        "last_name": "Eschweiler",
+        "email": "sebastian@codingthesmartway.com"
+        },
+        {
+        "id": 5,
+        "first_name": "Steve",
+        "last_name": "Palmer",
+        "email": "steve@codingthesmartway.com"
+        },
+        {
+        "id": 6,
+        "first_name": "Ann",
+        "last_name": "Smith",
+        "email": "ann@codingthesmartway.com"
+        }
+    ]
+}
